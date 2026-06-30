@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Model Outputs
+outputs/
+*.pth
+*.pt
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
