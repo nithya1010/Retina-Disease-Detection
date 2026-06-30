@@ -162,6 +162,18 @@ Through this project, I gained practical experience in:
 
 ---
 
+
+## 📸 Application Preview
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+### Prediction Result
+
+![Prediction](screenshots/prediction.png)
+
+
 ## 👩‍💻 Author
 
 **Nithyashree R**
@@ -177,3 +189,6 @@ GitHub: https://github.com/nithya1010
 ## ⭐ If you found this project useful
 
 Please consider giving this repository a **Star ⭐**.
+
+
+
